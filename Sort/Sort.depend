@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512626458 source:e:\documents\c++ workspace\sort\main.cpp
+	<iostream>
+	"Sort.h"
+	"stdlib.h"
+	<time.h>
+
+1512723389 e:\documents\c++ workspace\sort\sort.h
+	<iostream>
+

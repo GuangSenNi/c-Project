@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1545209562 source:e:\documents\c++ workspace\c++课设\main.cpp
+	<iostream>
+	"LinkList.h"
+	"Node.h"
+
+1545209630 e:\documents\c++ workspace\c++课设\include\linklist.h
+	"Node.h"
+	<iostream>
+
+1545208415 e:\documents\c++ workspace\c++课设\include\node.h
+	<iostream>
+
+1545209124 source:e:\documents\c++ workspace\c++课设\src\linklist.cpp
+	"LinkList.h"
+
+1545208529 source:e:\documents\c++ workspace\c++课设\src\node.cpp
+	"Node.h"
+
